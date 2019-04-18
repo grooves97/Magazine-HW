@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magazine", "Magazine\Magazine.csproj", "{28E6EA9F-B387-4456-AB0E-71BEB5C24CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magazine.Models", "Magazine.Models\Magazine.Models.csproj", "{9002CAD3-F687-4638-9D72-D9F58BA386B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E6EA9F-B387-4456-AB0E-71BEB5C24CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E6EA9F-B387-4456-AB0E-71BEB5C24CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E6EA9F-B387-4456-AB0E-71BEB5C24CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E6EA9F-B387-4456-AB0E-71BEB5C24CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9002CAD3-F687-4638-9D72-D9F58BA386B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9002CAD3-F687-4638-9D72-D9F58BA386B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9002CAD3-F687-4638-9D72-D9F58BA386B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9002CAD3-F687-4638-9D72-D9F58BA386B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FB2BBA-BB53-4905-A173-25D64235AA2D}
+	EndGlobalSection
+EndGlobal
